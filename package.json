@@ -1,0 +1,26 @@
+{
+  "name": "breakout-2021-judai-uchiha",
+  "version": "1.0.0",
+  "description": "breakout",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Judai-Uchiha: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@github.com/SLHSCS/breakout-2021-Judai-Uchiha.git"
+  },
+  "keywords": [
+    "breakout"
+  ],
+  "author": "Jaden Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLHSCS/breakout-2021-Judai-Uchiha/issues"
+  },
+  "homepage": "https://github.com/SLHSCS/breakout-2021-Judai-Uchiha#readme",
+  "devDependencies": {
+    "electron": "^17.0.1"
+  }
+}
